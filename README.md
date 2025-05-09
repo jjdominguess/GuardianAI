@@ -19,6 +19,14 @@
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/company/inova-fusca">Nome do Coordenador</a>
 
+  
+## 📁 Estrutura de pastas
+
+Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
+
+- Arquivo com o Piloto do projeto encontra-se na pasta documents, conterá descrição mais detalhada acerca de tecnologias usadas no mesmo.
+
+*Arquivo de *
 
 ## 📜 Descrição
 
